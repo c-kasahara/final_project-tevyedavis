@@ -4,7 +4,7 @@ author: Tev'ye davish
 subtitle: 
 ---
 
-# Introduction
+# Introduction This is a very interesting topic! Your introduction is very thorough and provides a good background about the topic itself. The only thing I would add is why it is important to depict the number of sightings per state for your analysis.
 
 [\~ 200 words]
 
